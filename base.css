@@ -16,3 +16,20 @@ h2 {
 h3 {
     color: mediumaquamarine;
 }
+
+a {
+    color: mediumaquamarine;
+}
+
+.stampede {
+    font-style: italic;
+    color: crimson;
+}
+
+.doom {
+    color: firebrick;
+}
+
+.congrats {
+    color: darkorchid;
+}
